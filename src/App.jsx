@@ -25,8 +25,8 @@
 const App = () => {
   let pStyle = {
     color: "red",
-    fontSize = 20,
-    textAlign:["center"]
+    fontSize : 20,
+    textAlign:"center"
   }
 
 return (
